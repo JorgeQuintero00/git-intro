@@ -2,3 +2,5 @@
 Creacion de Archivo
 Primera Linea
 Segunda Linea
+
+Estamos entendiendo hasta ahora Git
