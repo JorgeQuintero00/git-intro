@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
 Creacion de Archivo Jorge
-=======
-Creacion de Archivo Quintero
->>>>>>> test
 
 Linea 1
 Linea 2
