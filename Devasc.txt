@@ -1,8 +1,8 @@
 
-Creacion de Archivo
+Creacion de Archivo 
 
 Linea 1
-Segunda Linea
+Linea 2
 
 Estamos entendiendo hasta ahora Git
 
