@@ -1,8 +1,12 @@
 
+<<<<<<< HEAD
 Creacion de Archivo Jorge
+=======
+Creacion de Archivo Quintero
+>>>>>>> test
 
 Linea 1
-Segunda Linea
+Linea 2
 
 Estamos entendiendo hasta ahora Git
 
