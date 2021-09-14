@@ -1,6 +1,11 @@
 
 Creacion de Archivo
-Primera Linea
+
+Linea 1
 Segunda Linea
 
 Estamos entendiendo hasta ahora Git
+
+
+Pero que vaina
+
